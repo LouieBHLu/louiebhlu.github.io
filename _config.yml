@@ -16,7 +16,6 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Lu_Mingxuan_ml4799_MSEE.pdf", title: "CV"}
   - {title: "About me", url: "https://github.com/LouieBHLu/LouieBHLu/blob/main/README.md"}
   - {file: "blog.md", title: "Blog"}
   
@@ -33,9 +32,3 @@ comments:
 
 plugins:
  - jekyll-feed
- 
-defaults:
-  - scope:
-      path: "Lu_Mingxuan_ml4799_MSEE.pdf"
-    values:
-      image: false
