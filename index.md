@@ -13,6 +13,6 @@ TEST
     </embed>
 </object> -->
 
-<embed src="Lu_Mingxuan_ml4799_MSEE.pdf">
+<!-- <embed src="Lu_Mingxuan_ml4799_MSEE.pdf">
     <p>My CV can be found here: <a href="Lu_Mingxuan_ml4799_MSEE.pdf">CV</a>.</p>
-</embed>
+</embed> -->
